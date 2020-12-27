@@ -3,7 +3,7 @@
 ### Hi there, I'm Hiten Goyal - aka[ \[TechyHoney\]](hitengoyal.me) 👋
 
 [![Website](https://img.shields.io/website?label=HITENGOYAL.ME&style=for-the-badge&url=https%3A%2F%2Fhitengoyal.me)](https://hitengoyal.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HoneyTechy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHoneyTechy&screen_name=HoneyTechy)
 
 ## I'm a Developer, and Learner!!
 
@@ -48,7 +48,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Recommended Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -58,7 +58,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to)
 
 ---
 <details>
@@ -71,7 +71,7 @@
 [website]: https://hitengoyal.me
 [instagram]: https://instagram.com/hiten.goyal
 [linkedin]: https://www.linkedin.com/in/hiten-goyal-204717163/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[webdevplaylist]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
+[jsplaylist]: https://courses.learncodeonline.in/learn/Complete-Javascript-course
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[reactplaylist]: https://courses.learncodeonline.in/learn/home/Full-Stack-MERN-Bootcamp/
