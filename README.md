@@ -65,7 +65,7 @@
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyhoney&show_icons=true&locale=en&layout=compact" alt="techyhoney" />
   <img align="left" alt="Techyhoney's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=techyhoney&show_icons=true&hide_border=true" />
 
 </details>
