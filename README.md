@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Hiten Goyal - aka[ \[TechyHoney\]][website] 👋 [![HitCount](http://hits.dwyl.com/techyhoney/techyhoney.svg)](http://hits.dwyl.com/techyhoney/techyhoney)
+### Hi there, I'm Hiten Goyal - aka[ \[TechyHoney\]][website] 👋 [![HitCount](http://hits.dwyl.com/techyhoney/techyhoney.svg)](http://hits.dwyl.com/techyhoney/techyhoney) <p align="left"> <img src="https://komarev.com/ghpvc/?username=techyhoney&label=Profile%20views&color=0e75b6&style=flat" alt="techyhoney" /> </p>
 
 [![Website](https://img.shields.io/website?label=HITENGOYAL.ME&style=for-the-badge&url=https%3A%2F%2Fhitengoyal.me)](https://hitengoyal.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HoneyTechy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHoneyTechy&screen_name=HoneyTechy)
