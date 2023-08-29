@@ -46,6 +46,8 @@
 ### 📕 Recommended Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [The ASCII value of A To Z](https://teachingbee.in/ascii-value-of-a-to-z/)
 - [Previously Asked TCS Digital Coding Questions](https://teachingbee.in/previously-asked-tcs-digital-coding-questions/)
 - [Special Operators In C With Examples](https://teachingbee.in/special-operators-in-c-with-examples/)
 - [Key Constraints In DBMS: Every DBA Should Know](https://teachingbee.in/key-constraints-in-dbms-every-dba-should-know/)
@@ -55,7 +57,7 @@
 - [Difference Between Half Adder And Full Adder](https://teachingbee.in/difference-between-half-adder-and-full-adder/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to)
+➡️ [more blog posts...](https://teachingbee.in/blog))
 
 ---
 <details>
