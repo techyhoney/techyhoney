@@ -46,7 +46,7 @@
 ### 📕 Recommended Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Compilation in Java](https://teachingbee.in/compilation-in-java/)
 - [The ASCII value of A To Z](https://teachingbee.in/ascii-value-of-a-to-z/)
 - [Previously Asked TCS Digital Coding Questions](https://teachingbee.in/previously-asked-tcs-digital-coding-questions/)
 - [Special Operators In C With Examples](https://teachingbee.in/special-operators-in-c-with-examples/)
