@@ -54,7 +54,7 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 - [Query Processing In DBMS With Examples](https://teachingbee.in/query-processing-in-dbms-with-examples/)
-- [Difference Between Half Adder And Full Adder](https://teachingbee.in/difference-between-half-adder-and-full-adder/)
+- [OOP Interview Questions](https://teachingbee.in/oop-interview-questions-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://teachingbee.in/blog))
