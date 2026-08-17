@@ -42,29 +42,7 @@
 
 ---
 
-### 📕 Recommended Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Compilation in Java](https://teachingbee.in/compilation-in-java/)
-- [The ASCII value of A To Z](https://teachingbee.in/ascii-value-of-a-to-z/)
-- [Previously Asked TCS Digital Coding Questions](https://teachingbee.in/previously-asked-tcs-digital-coding-questions/)
-- [Special Operators In C With Examples](https://teachingbee.in/special-operators-in-c-with-examples/)
-- [Key Constraints In DBMS: Every DBA Should Know](https://teachingbee.in/key-constraints-in-dbms-every-dba-should-know/)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-- [Query Processing In DBMS With Examples](https://teachingbee.in/query-processing-in-dbms-with-examples/)
-- [OOP Interview Questions](https://teachingbee.in/oop-interview-questions-2023/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://teachingbee.in/blog))
-
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyhoney&show_icons=true&locale=en&layout=compact" alt="techyhoney" />
-  <img align="left" alt="Techyhoney's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=techyhoney&show_icons=true&hide_border=true" />
-
-</details>
+### 📕 Recommended Links
 
 [website]: https://hitengoyal.me
 [GetOnlineCompass]: https://getonlinecompass.com/
@@ -73,3 +51,11 @@
 [jsplaylist]: https://courses.learncodeonline.in/learn/Complete-Javascript-course
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://courses.learncodeonline.in/learn/home/Full-Stack-MERN-Bootcamp/
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyhoney&show_icons=true&locale=en&layout=compact" alt="techyhoney" />
+  <img align="left" alt="Techyhoney's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=techyhoney&show_icons=true&hide_border=true" />
+
+</details>
