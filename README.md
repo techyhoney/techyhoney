@@ -68,8 +68,8 @@
 </details>
 
 [website]: https://hitengoyal.me
-[instagram]: https://instagram.com/hiten.goyal
-[linkedin]: https://www.linkedin.com/in/hiten-goyal-204717163/
+[GetOnlineCompass]: https://getonlinecompass.com/
+[linkedin]: https://www.linkedin.com/in/hiten-goyal/
 [webdevplaylist]: https://www.udemy.com/course/the-complete-web-development-bootcamp/
 [jsplaylist]: https://courses.learncodeonline.in/learn/Complete-Javascript-course
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
